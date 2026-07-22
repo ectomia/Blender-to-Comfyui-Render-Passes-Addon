@@ -40,3 +40,5 @@ THINGS TO KNOW
 
     You have both options to either drag script into blender script 
     Or Install via addons in the preferences 
+
+    ![Alt text](images/screenshot.png)
