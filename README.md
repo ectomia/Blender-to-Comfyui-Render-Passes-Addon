@@ -37,3 +37,6 @@ THINGS TO KNOW
     the .blend and come back automatically.
   - Depth uses Normalize (re-scales per frame). If depth videos "pulse"
     during big distance changes, ask Claude for the fixed-range variant.
+
+    You have both options to either drag script into blender script 
+    Or Install via addons in the preferences 
