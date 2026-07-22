@@ -42,3 +42,12 @@ THINGS TO KNOW
     Or Install via addons in the preferences 
 
     ![Alt text](Renderpasses.jpg)
+
+    Useful tool for use with the following workflow to control your AI videos in ComfyUI using Controlnet
+
+    Save your self time setting up the compositor
+    
+    Credits to https://mickmumpitz.ai/ 
+    Follow his guide and you will be able to generate very high production videos
+    
+    ![Alt text](Comfy_Mickmumpitz_workflow.jpg)
